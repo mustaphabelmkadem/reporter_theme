@@ -1,1 +1,1 @@
-Exercice
+Theme Exercice for Wordpress
